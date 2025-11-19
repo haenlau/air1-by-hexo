@@ -181,7 +181,7 @@ footer:
       name: Copyright © {thisYear} Air One
       path: https://ari1.cn
     -
-      name: Theme by Oranges | Powered by Hexo
+      name: Theme by Oranges
       path: https://github.com/zchengsite/hexo-theme-oranges
 
   # 浏览量统计
