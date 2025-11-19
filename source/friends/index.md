@@ -1,4 +1,7 @@
 ---
-title: friends
-date: 2025-11-19 13:46:04
+title: tags
+date: 2019-05-03 12:03:35
+type: "friends"
+categories:
+tags:
 ---
