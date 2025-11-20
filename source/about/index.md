@@ -5,7 +5,6 @@ categories:
 tags:
 ---
 
-这里是 [air1.cn](https://air1.cn)。
 
 乙巳蛇年初冬，我用Qwen3-Max写了个Python脚本，在茫茫域名中扫出一个心动的名字——于是有了 **air1**。
 
