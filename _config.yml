@@ -4,16 +4,16 @@
 
 # Site
 title: Air1
-subtitle: ''
-description: ''
-keywords:
+subtitle: '记录思考'
+description: 'Air One 的个人站点'
+keywords: 'Hexo, Cloudflare Pages, 部署, 技术博客, 静态站点'
 author: haen
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://air1.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
