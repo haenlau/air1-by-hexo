@@ -100,7 +100,7 @@ navbar:
     path: /tags/
     key: tags
   -
-    name: 朋友
+    name: 书签
     enable: true
     path: /friends/
     key: friends
@@ -124,12 +124,12 @@ friends:
   # site: 地址
   # meta: 描述
   -
-    nickname: oAix
-    site: https://oaix.cn/
+    nickname: 2048
+    site: https://oaix.cn/2048
     meta:
   -
-    nickname: Nino
-    site: https://ninojay.top/
+    nickname: oAix
+    site: https://oaix.cn/
     meta:
 
 # 页脚信息
