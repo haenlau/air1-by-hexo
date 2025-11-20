@@ -178,8 +178,8 @@ footer:
     # 一般用来显示根据各种场景需要切换的文本，如时间年份
     # 如：{thisYear} 会被替换为今年年份
     -
-      name: Copyright © {thisYear} Air One
-      path: https://ari1.cn
+      name: Made with thoughts {thisYear} Air One
+      path: https://air1.cn
     -
       name: Theme by Oranges
       path: https://github.com/zchengsite/hexo-theme-oranges
